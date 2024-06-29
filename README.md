@@ -1,4 +1,4 @@
-# Chrome Extension: Solmyr's Lightning
+# Chrome Extension: Todoist Solmyr's Lightning
 
 ## Description
 This Chrome extension summons Solmyr to cast chain lightning to Todoist tasks when clicked done.
